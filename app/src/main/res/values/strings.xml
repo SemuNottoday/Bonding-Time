@@ -1,0 +1,745 @@
+<resources>
+    <string name="app_name">Jerry </string>
+    <string name="one2"> what is your favorite book </string>
+    <string name="two2"> የምትወደው መጽሃፍ ምንድነው ? </string>
+    <string name="one3"> do you have a girl friend</string>
+    <string name="two3"> ፍቅረኛ አለህ ወይ ? </string>
+    <string name="one4"> what is you favorite sport to watch </string>
+    <string name="two4"> ለማየት የሚመችህ የስፖርት አይነት ምንድነው ? </string>
+    <string name="one5"> who do you love the most </string>
+    <string name="two5"> ከዚህ አለም ማንን አስበልጠህ ትወዳለህ ? </string>
+    <string name="one6"> have you ever been in love  </string>
+    <string name="two6"> ፍቅር ይዞህ ያውቃል ወይ ? </string>
+    <string name="one7"> who is you roll model </string>
+    <string name="two7"> ላንተ አርአያ ሰው ማነው ?  </string>
+    <string name="one8"> who was your celebrity crush </string>
+    <string name="two8"> የወደድከው ታዋቂ ሰው ማን ነበር ? </string>
+    <string name="one9">What is your favorite move of all time?</string>
+    <string name="two9"> ላንተ የሚንጊዜም ምርጥ ፊልም የትኛው ነው ? </string>
+    <string name="one10">What is your favorite book of all time?</string>
+    <string name="two10"> ላንተ የሚንጊዜም ምርጥ መጽሃፍ የትኛው ነው ? </string>
+    <string name="one11">Who is your favorite actor from Ethiopia?</string>
+    <string name="two11"> ከኢትዮጵያ ወንድ ተዋናዮች ማንን ትወዳለህ ?  </string>
+    <string name="one12">Who is your favorite actor from Hollywood?</string>
+    <string name="two12"> ከአሜሪካ ወንድ ተዋናዮች ማንን ትወዳለህ ? </string>
+    <string name="one13">Who is your favorite actress from Ethiopia?</string>
+    <string name="two13"> ከኢትዮጵያ ሴት ተዋናዮች ማንን ትወዳለህ ? </string>
+    <string name="one14">Who is your favorite actress from Hollywood?</string>
+    <string name="two14"> ከአሜሪካ ሴት ተዋናዮች ማንን ትወዳለህ ? </string>
+    <string name="one15">What was the first English song you listen?</string>
+    <string name="two15"> ለመጀመርያ ጊዜ የሰማሀው የእንግሊዝ ዘፈን ምን ነበር ? </string>
+    <string name="one16">Which singer do you love the most? And why?</string>
+    <string name="two16"> በጣም አብዝተህ የምትወደው ዘፋኝ ማነው ? ለምን ? </string>
+    <string name="one17">Which song is the best song to you?</string>
+    <string name="two17"> የምንጊዜም ምርጥ ዘፈን ላንተ የትኛው ነው ? ለምን ? </string>
+    <string name="one18">Which song make you cry when you listen to it?</string>
+    <string name="two18"> የሚያስለቅስህ ዘፈን አለ ወይ ? ካለ የትኛው ? </string>
+    <string name="one19">Have you ever been to a concert? If you have how was it?</string>
+    <string name="two19"> ኮንሰርት ገብተህ ታቃለህ ወይ ? እንዴት ነበር ? </string>
+    <string name="one20">Who is the best football player of all time?</string>
+    <string name="two20"> የምንጊዜም ምርጥ የእግር ካስ ተጫዋች ማነው ? </string>
+    <string name="one21">A scene you don’t forger from a movie?</string>
+    <string name="two21"> ካየሃቸው ፊልሞች ያማትረሳት ደስ የምትልህ ትዕይንት ውይም part   </string>
+    <string name="one22">Sing a song from your childhood memory?</string>
+    <string name="two22"> ከልጅነት ጊዜህ የምታስታውሰው ዘፈን ?  ዝፈነው </string>
+    <string name="one23">Sing a song you learned in school?</string>
+    <string name="two23"> ትምህርት ቤት ላይ የተማርከው ዘፈን ? ዝፈነው  </string>
+    <string name="one24">Which song do you hate the most?</string>
+    <string name="two24"> በጣም የምትጠላው ዘፈን የትኛው ነው ? ለምን ? </string>
+    <string name="one25">Which song remined you of bad time you had?</string>
+    <string name="two25">ያሳለፍከውን መጥፎ ጊዜ የሚያስታውስህ ዘፈን የትኛው ነው ? </string>
+    <string name="one26">A movie you learned a lot from?</string>
+    <string name="two26"> ብዙ ነገር የተማርክበት ፊልም ካለ አንድ ሁለት በለን ? </string>
+    <string name="one27">A song you learned a lot from?</string>
+    <string name="two27"> ብዙ ነገር የተማርክበት ዘፈን ካለ አንድ ሁለት በለን ? </string>
+    <string name="one28">If you could marry singer, who do you choose? And why?</string>
+    <string name="two28"> ዘፋኝ አግባ ብትባል ማንን ትመርጣለህ ? ልምን ? </string>
+    <string name="one29">If you could marry actor or actress, who do you choose? And why?</string>
+    <string name="two29"> ተዋናይ አግባ ብትባል ማንን ትመርጣለህ ? ልምን </string>
+    <string name="one30">Which actor do you want to meet before you die?</string>
+    <string name="two30"> ከመሞትህ በፊት ማግኘት የምትፈልገው ተዋናይ ማን ነው ?  </string>
+    <string name="one31">Which actress do you want to meet before you die?</string>
+    <string name="two31"> ከመሞትህ በፊት ማግኘት የምትፈልገው ተዋናይ ማነች ? </string>
+    <string name="one32">Who is the most beautiful actress to you?</string>
+    <string name="two32"> ላንተ በጣም ቆንጆዋ ተዋናይት ማነች ? </string>
+    <string name="one33">Who is the most handsome actor to you?</string>
+    <string name="two33"> ላንተ በጣም ቆንጆዋ ተዋናይ ማነች ? </string>
+    <string name="one34">Who was your first celebrity crush growing up?</string>
+    <string name="two34"> ልጅ እያለህ የወደድካት ተዋናይ ወይም ዘፋኝ አለች ? ማነች ? </string>
+    <string name="one35">What’s your claim to fame?</string>
+    <string name="two35">ስለ ዝነኝነት ምን ታስባለህ ?</string>
+    <string name="one36">Are you usually early or late?</string>
+    <string name="two36"> ብዙ ጊዜ አርፋጅ ነህ ወይስ በጊዜ ነው የምትገኘው ?</string>
+    <string name="one37">What’s your favorite drink?</string>
+    <string name="two37"> በጣም የምትወደው መጥጥ ምንድን ንው ? </string>
+    <string name="one38"> What do you hope never changes?</string>
+    <string name="two38"> ባይለወጥ ብለህ የምታስበው ምንድን ነው ?</string>
+    <string name="one39">What’s your dream car?</string>
+    <string name="two39"> በህልምህ የምትታይህ መኪና ምን አይነት ነች ?</string>
+    <string name="one40">Where would you rather be from?</string>
+    <string name="two40"> የት አገር ተፈጥረህ ብትሆን ደስ ይለሃል ?</string>
+    <string name="one41"> What songs have you completely memorized?</string>
+    <string name="two41"> በቃልህ የሸመደድከው ዘፈን የትኛው ነው ?</string>
+    <string name="one42"> What would you rate 10 / 10?</string>
+    <string name="two42"> ከ 10 / 10 የምትሰጠው ነገር አለ ? ምንድን ነው ? </string>
+    <string name="one43">What job would you be terrible at?</string>
+    <string name="two43"> በጣም የማትችለው የስራ ዘርፍ ምንድን ነው ?</string>
+    <string name="one44">What are you absolutely determined to do?</string>
+    <string name="two44"> በጣም የምትችለው ነገር ምንድን ነው ?</string>
+    <string name="one45"> What skill would you like to master?</string>
+    <string name="two45"> ተምረህ በጣም ባለሞያ መሆን የምትፈልገው ነገር ምንድን ነው ?</string>
+    <string name="one46">What would your perfect room look like?</string>
+    <string name="two46"> ቤትህ ራስህ ብታሳምረው እንዴት ይሆናል ? </string>
+    <string name="one47">What movie title best describes your life?</string>
+    <string name="two47"> ሂወትህን በጣም የሚገልጸው የፊልም ርዕስ ምን ይሆናል ?</string>
+    <string name="one48">What age do you want to live to?</string>
+    <string name="two48"> እስከ ስንት አመትህ በትኖር ደስ ይለሃል ?</string>
+    <string name="one49"> What kind of art do you enjoy most?</string>
+    <string name="two49"> የሚያስደስትህ የ ጥበብ ዘርፍ የትኛው ነው ?</string>
+    <string name="one50">What takes up too much of your time?</string>
+    <string name="two50"> ብዙ ጊዜህን በምን ሁኔታ ታሳልፍለህ ?</string>
+    <string name="one51"> What do you wish you knew more about?</string>
+    <string name="two51"> ስለምን ጉዳይ ይበልጥ ብታቅ ትመርጣለህ ? </string>
+    <string name="one52"> What’s the best way to start the day?</string>
+    <string name="two52"> ዕለቱን ለመጀመር የተሻለው መንገድ ምንድን ነው ? </string>
+    <string name="one53">How different was your life one year ago?</string>
+    <string name="two53"> ከ 1 ዓመት በፊት ሂወትህ ምን ያህል ይለይ ነበር ?</string>
+    <string name="one54">What’s the best single day on the calendar?</string>
+    <string name="two54"> በዓመት ውስጥ በጣም የምትወዳት ቀን የትኛዋ ነች ?</string>
+    <string name="one55">What are some things you’ve had to unlearn?</string>
+    <string name="two55"> ያወቅከውን ማጥፋት ብትችል የትኛውን ታጠፋለህ ?</string>
+    <string name="one56"> What’s your favorite genre of book or movie?</string>
+    <string name="two56"> ምን ዓይነት ፊልም ወይም መጥሃፍ ትወዳለህ ? </string>
+    <string name="one57">What’s the farthest you’ve ever been from home?</string>
+    <string name="two57"> ከቤትህ አርቀህ የሄድክበት ጊዜ መች ነው ? የት ነው ቦታው ?</string>
+    <string name="one58">What TV channel doesn’t exist but really should?</string>
+    <string name="two58"> ቢኖር ብለህ ያምታስበው  tv channel አለ ? ምን ?</string>
+    <string name="one59">Where is the most interesting place you’ve been?</string>
+    <string name="two59"> ከሄድክባቸው ቦታዎች በጣም ገራሚ ቦታ የትኛው ነው ?</string>
+    <string name="one60">What city would you most like to live in?</string>
+    <string name="two60"> በየትኛው ከተማ ብትኖር ትመርጣለህ ?</string>
+    <string name="one61">When was the last time you climbed a tree?</string>
+    <string name="two61"> ለመጨረሻ ጊዜ ዛፍ ላይ የወጣህበት ጊዜ መች ነው ?</string>
+    <string name="one62">What is special about the place you grew up?</string>
+    <string name="two62"> ያደግክበት ቦታ ከሌሎች ብምን ይለያል ?</string>
+    <string name="one63">What age do you wish you could permanently be?</string>
+    <string name="two63"> ዕድሜ የማይጨምር ቢሆን የትኛው ዕድሜህ ላይ ብትሆን ትመርጣለህ ?</string>
+    <string name="one64"> What are you most likely to become famous for?</string>
+    <string name="two64"> ታዋቂ ልትሆንበት የምትችለው ነገር ምን ሊሆን ይችላል ?</string>
+    <string name="one65">Where is the most relaxing place you’ve ever been?</string>
+    <string name="two65"> በሂወትህ ዘመንህ ዘና እንድትል ያደረገህ ቦታ የት ነው ?</string>
+    <string name="one66"> What have you only recently formed an opinion about?</string>
+    <string name="two66"> በቅርቡ የፈጠርከው ወይም ያዳበርከው አመለካከት ምንድን ነው ? </string>
+    <string name="one67">What is the most heartwarming thing you’ve ever seen?</string>
+    <string name="two67"> በሂወት ዘመንህ ካየሃቸው ነገሮች በጣም ደስ ያሰኘህ ነገር ምንድን ነው ?</string>
+    <string name="one68">What’s the most interesting piece of art you’ve seen?</string>
+    <string name="two68"> በሂወት ዘመንህ ካየሃቸው የጥበብ ስራዎች የማትረሳው የትኛው ነው ?</string>
+    <string name="one69"> What’s something you like to do the old-fashioned way?</string>
+    <string name="two69"> በአሁን ዘመን ካሉት ነገሮች በድሮ ስታይል ማድረግ የምትፈልገው ነገር ምንድን ነው ?</string>
+    <string name="one70"> Who has impressed you most with what they’ve accomplished?</string>
+    <string name="two70"> በሚሰሩት ስራ በጣም ያስገረመህ ሰው ማነው ? </string>
+    <string name="one71"> How do you relax after a hard day of work?</string>
+    <string name="two71"> ከአድካሚ ስራ መልስ ፡ ራስህን በምን ታዝናናለህ ?</string>
+    <string name="one72">What TV show or movie do you refuse to watch?</string>
+    <string name="two72"> ማየት የማትፈልገው ፊልም ወይም tv program ?</string>
+    <string name="one73">What job do you think you’d be really good at?</string>
+    <string name="two73"> ጎበዝ እሆንበታለው ብለህ የምታስበው ሲራ ምን ዓይነት ነው ?</string>
+    <string name="one74"> Where would you spend all your time if you could?</string>
+    <string name="two74"> ብትችል ዘመንህን ሙሉ የት ብታሳልፍ ትመርጥለህ ?</string>
+
+    <string name="one75"> What would be the most amazing adventure to go on?</string>
+    <string name="two75">ቫኬሽን ምርጥ የሚሆነው ምን ሲኖረው ነው ?</string>
+    <string name="one76"> What would be your ideal way to spend the weekend?</string>
+    <string name="two76"> ቅዳሜና እሁድን እንዴት ብታሳልፍ ደስ ይለሃል ?</string>
+    <string name="one77"> What’s the best way a person can spend their time?</string>
+    <string name="two77"> ሰው ትርፍ ጊዜውን እንዴት በአግባቡ መጠቀም ይችላል ? </string>
+    <string name="one78"> What one thing do you really want but can’t afford?</string>
+    <string name="two78"> አቅምህ የማይፈቅድልህ ግን በጣም የምትፈልገው ነገር ምንድን ነው ? </string>
+    <string name="one79"> What is the luckiest thing that has happened to you?</string>
+    <string name="two79"> እድለኛ ነኝ ብለህ እንድታስብ ያደረገህ ገጠመኝ አለህ ?</string>
+    <string name="one80"> What are some small things that make your day better?</string>
+    <string name="two80"> ቀንህን ያማረ የሚያደርጉ አንዳንድ ነገሮች ምንድን ናቸው ?</string>
+    <string name="one81"> What’s the best thing that happened to you last week?</string>
+    <string name="two81"> ባለፈው ሳምንት ያጋጠምህ ደስ የሚል ነገር ምንድን ነወ ?</string>
+    <string name="one82"> What are you looking forward to in the coming months?</string>
+    <string name="two82"> በሚመጣው ወር የምትጠብቀው ነገር አለ ወይ ? ካለ ምንድን ነው ?</string>
+    <string name="one83"> What’s your favorite piece of clothing you own / owned?</string>
+    <string name="two83"> ከልብሶችህ የትኛው ልብስህን አብልጠህ ትወዳለህ ?</string>
+    <string name="one84"> What is the most annoying habit that other people have?</string>
+    <string name="two84"> ሰዋች ላይ ከምታያቸው ባህሪዎች በጣም የሚያናድድህ ባህሪ የትኛው ነው ?</string>
+    <string name="one85"> What is the most annoying question that people ask you?</string>
+    <string name="two85"> ሰውች ምን አይነት ጥያቄ ሲጠዩቁህ በጣም ትናደዳለህ ? </string>
+    <string name="one86"> What is the most impressive thing you know how to do?</string>
+    <string name="two86"> መስራት የምትችለው አስገራሚ ነገር አለ ወይ ?</string>
+    <string name="one87"> What was the best book or series that you’ve ever read?</string>
+    <string name="two87"> ካነበብካቸው መጽሃፎች ወይም ፊልሞች ምርጡ የትኛው ነው ?</string>
+    <string name="one88"> What question would you most like to know the answer to?</string>
+    <string name="two88"> ለየትኛው ጥያቄ መልስ ብታገኛ ደስ ይለሃል ?</string>
+    <string name="one89"> What are you interested in that most people haven’t heard of?</string>
+    <string name="two89"> አንተ በጣም የምትፈልገው ሌሎች ሰዎች ግን ሰምተውትም የማያውቁት ነገር ምንድን ነው ?   </string>
+    <string name="one90"> Why did you decide to do the work you are doing now?</string>
+    <string name="two90"> አሁን የምትሰራውን ስራ ለምን ለመስራት መረጥከው ? </string>
+    <string name="one91"> What state or country do you never want to go back to?</string>
+    <string name="two91"> መሄድ የማትፈልገው ሃገር ወይም ከተማ የትኛው ነው ?</string>
+    <string name="one92"> Where do you usually go when you when you have time off?</string>
+    <string name="two92"> ትርፍ ጊዜ ሲኖርህ ብዙ ጊዜ የምትሄደው የት ነው ?</string>
+    <string name="one93"> What are you most looking forward to in the next 10 years?</string>
+    <string name="two93"> በሚቀጥሉት 10 አመታት የምትጠብቀው ነገር ምንድን ነው ? </string>
+    <string name="one94"> What makes a good life?</string>
+    <string name="two94"> ጥሩ ሂወት እንዲኖርህ የሚያደርግ ነገር ምንድን ነው ? </string>
+    <string name="one95"> What risks are worth taking?</string>
+    <string name="two95"> መወሰድ እለባቸው የምትላቸው ስጋቶች(risk) ምን ምን ናቸው ?</string>
+    <string name="one96"> What do you take for granted?</string>
+    <string name="two96"> በእጅህ ካሉት ነገሮች እንደ መዳፍ የምትቆጥራቸው ነገሮች የትኞቹ ናቸው ? </string>
+    <string name="one97"> Who inspires you to be better?</string>
+    <string name="two97"> የተሻለ እንድትሆን የሚያነቃቃህ ሰው ማን ነው ?</string>
+    <string name="one98"> What do you have doubts about?</string>
+    <string name="two98"> ስለምን ጉዳዮች ጥርጣሬ አለህ ?</string>
+    <string name="one99"> When do you feel truly “alive”?</string>
+    <string name="two99"> ምን ስታደርግ በሂወት እንዳለህ ይሰማሃል ?</string>
+    <string name="one100"> What book impacted you the most?</string>
+    <string name="two100"> ሂወቴ ላይ ተጽዕኖ ፈጥሮልኛል የምትለው መጽሃድ የትኛው ነው ? </string>
+    <string name="one101"> What’s the best thing about you?</string>
+    <string name="two101"> ካንተ ምርጡ ነገርህ ምንድን ነው ?</string>
+    <string name="one102"> What are you addicted to?</string>
+    <string name="two102"> ምን ዓይነት ሱስ አለህ ?</string>
+    <string name="one103"> What irrational fear do you have?</string>
+    <string name="two103"> ምክንያታዊ ያልሆነ ፍራቸ አለህ ወይ ? በምን ዙርያ ?  </string>
+    <string name="one104"> Have you ever saved someone’s life?</string>
+    <string name="two104"> የሰው ሂወት ከሞት አትርፈህ ታቃለህ ወይ ?</string>
+    <string name="one105"> What’s the hardest lesson you’ve learned?</string>
+    <string name="two105"> ሂወት ካስተማረችህ ትምህርቶች ትልቁ  ትምህርት ምንድን ነው ? </string>
+
+    <string name="one106"> What is one of your favorite smells?</string>
+    <string name="two106">ከተወዳጅ ሽታችሁ አንዱ ምንድን ነው?</string>
+    <string name="one107"> Have you ever given to any charities?</string>
+    <string name="two107">ለማንኛውም የበጎ አድራጎት ድርጅት ሰጥተው ያውቃሉ ?</string>
+    <string name="one108"> What’s the last adventure you went on?</string>
+    <string name="two108">የተጓዙት የመጨረሻው ትሪፕ ምንድነው?</string>
+    <string name="one109"> What are three interesting facts about you?</string>
+    <string name="two109">ስለ እርስዎ ሶስት አስገራሚ እውነታዎች ምንድን ናቸው?</string>
+    <string name="one110"> What was the best compliment you’ve received?</string>
+    <string name="two110">የተቀበልከው ምርጥ ምስጋና ምንድነው?</string>
+    <string name="one111"> What chance encounter changed your life forever?</string>
+    <string name="two111">ሕይወትዎን ለዘለቄታው የለወጠው የትኛው እድል ነው?</string>
+    <string name="one112"> What do you want to be remembered for?</string>
+    <string name="two112">በምን እንዲታወስሱ ይፈልጋሉ?</string>
+    <string name="one113"> What do you like most about your family?</string>
+    <string name="two113">ስለ ቤተሰብዎ በጣም የሚወዱት ምንድነው?</string>
+    <string name="one114"> What do people think is weird about you?</string>
+    <string name="two114">ሰዎች ስለ እርስዎ አስጠሊ ብለው የሚያስቡት ምንድን ነው ?</string>
+    <string name="one115"> What is something you will NEVER do again?</string>
+    <string name="two115">እርስዎ እንደገና የማያደርጉት ነገር ምንድን ነው?</string>
+    <string name="one116"> Who is / was your most interesting friend?</string>
+    <string name="two116">በጣም አሳቢ ጓደኛዎ እነማን ናቸው?</string>
+    <string name="one117"> What are you most likely very wrong about?</string>
+    <string name="two117">በጣም የተሳሳቱት ነገር ምንድን ነው?</string>
+    <string name="one118"> What’s the most immature thing that you do?</string>
+    <string name="two118">እርስዎ የሚያከናውኑት የልበሰለ(የልጅ) ሥራ ምንድነው?</string>
+    <string name="one119"> What is the biggest lesson you never learned?</string>
+    <string name="two119">ከምንም ያልተማሩት ፡ ሳይማሩ ያለፍዎት ታላቅ ትምህርት ምንድን ነው?</string>
+    <string name="one120"> What was the most memorable gift you’ve received?</string>
+    <string name="two120">ያገኘኸው በጣም የማይረሳ ስጦታ ምንድን ነው?</string>
+    <string name="one121"> What chapters would you separate your autobiography into?</string>
+    <string name="two121">የራስህን ሂወት ታሪክ ለመጻፍ የትኞቹ ምዕራፎች ይገለጣሉ?</string>
+    <string name="one122"> What do you hope your last words will be?</string>
+    <string name="two122">የመጨረሻ ቃላቶችዎ ምን እንደሚሆኑ ተስፋ ያደርጋሉ?</string>
+    <string name="one123"> What do you spend the most time thinking about?</string>
+    <string name="two123">ብዙ ጊዜ ሰለ ምን ጉዳይ እያሰቡ ያሳልፋሉ?</string>
+    <string name="one124"> What is something you can never seem to finish?</string>
+    <string name="two124">ፈጽሞ ሊጨርሱት ያልቻሉት ነገር ምንድን ነው ?</string>
+    <string name="one125"> What mistake do you keep making again and again?</string>
+    <string name="two125">በተደጋጋሚ ደጋግመህ ምን ስህተት ትሠራለህ?</string>
+    <string name="one126"> What’s the best thing you got from your parents?</string>
+    <string name="two126">ከወላጆችዎ የተሻለው ያገኙት ነገር ምንድን ነው?</string>
+    <string name="one127"> What is the strangest thing you have come across?</string>
+    <string name="two127">እርስዎ ያጋጠምዎት በጣም በጣም የሚያስገርም ነገር ምንድን ነው?</string>
+    <string name="one128"> What would a mirror opposite of yourself be like?</string>
+    <string name="two128">ከራስዎ ፊት ለፊት ያለው መስተዋት ምን ይመስላል?</string>
+    <string name="one129"> What’s the best and worst thing about getting older?</string>
+    <string name="two129">በዕድሜ መግፋት ላይ ያለው ምርጥ እና መጥፎ ነገር ምንድነው?</string>
+    <string name="one130"> What is something you are certain you’ll never experience?</string>
+    <string name="two130">መቼም ያጋጥመኛል ብለህ የማታስበው አንድ ነገር ምንድነው?</string>
+    <string name="one131"> What’s one responsibility you really wish you didn’t have?</string>
+    <string name="two131">ባይኖረኝ ብለህ የምትመኘው ሃላፊነት ምንድነው?</string>
+    <string name="one132"> What do you wish your brain was better at doing?</string>
+    <string name="two132">አዕምዎዎ ምን ማድረግ ላይ ጎበዝ ቢሆን ይመኛሉ?</string>
+    <string name="one133"> In your group of friends, what role do you play?</string>
+    <string name="two133">በቡድን ጓደኞችዎ ውስጥ ምን ሚና ይጫወታሉ?</string>
+    <string name="one134"> Which of your scars has the best story behind it?</string>
+    <string name="two134">ከጠባሳዎችህ በስተጀርባ ምርጥ ታሪክ ያለው የትኛው ነው?</string>
+    <string name="one135"> What have you created that you are most proud of?</string>
+    <string name="two135">እርስዎ የፈጠሩት በጣም የሚኮሩበት ነገር ምንድን ናቸው?</string>
+    <string name="one136"> What do you strongly suspect but have no proof of?</string>
+    <string name="two136">በጣም የምትጠረጥሩት ፡  ነገር ግን ምንም ማረጋገጫ የላችሁም?</string>
+    <string name="one137"> What were some of the turning points in your life?</string>
+    <string name="two137">በሕይወትዎ ውስጥ አንዳንድ አስደናቂ ለውጦች ምንድን ናቸው?</string>
+    <string name="one138"> What’s the title of the current chapter of your life?</string>
+    <string name="two138">አሁን ያለው የአንተ ሕይወት ምዕራፍ ርዕስ ምንድን ነው?</string>
+    <string name="one139"> Among your friends or family, what are you famous for?</string>
+    <string name="two139">ከጓደኞችዎ ወይም ከቤተሰብዎ ውስጥ, ስለ ብምን ታዋቂ ነዎት?</string>
+
+    <string name="one140"> What’s something horrible that everyone should try at least once?</string>
+    <string name="two140">ሁሉም ሰው ቢያንስ አንድ ጊዜ መሞከር ያለበት አንድ በጣም አስጠሊ ፡ አስደንጋጭ ነገር ምንድን ነው?</string>
+    <string name="one141"> If you had a personal flag, what would be on it?</string>
+    <string name="two141">የግል ባንዴራ ቢኖር ኖሮ ያንተ ምን ይኖሮው ነበር ?</string>
+    <string name="one142"> As the only human left on Earth, what would you do?</string>
+    <string name="two142">በምድር ላይ ብቸኛው ሰው ብትሆን , ምን ታደርጋለህ?</string>
+    <string name="one143"> What are three of the most significant numbers in your life?</string>
+    <string name="two143">በሕይወትዎ ውስጥ በጣም ጉልህ የሆኑ ቁጥሮች ምንድን ናቸው?</string>
+    <string name="one144"> What are some of your personal “rules” that you never break?</string>
+    <string name="two144">መቼም ያላቃረጥካቸው "የግል ህጎች" የትኞቹ ናቸው?</string>
+    <string name="one145"> What’s the best and worst piece of advice you’ve ever received?</string>
+    <string name="two145">የተቀበልሽው በጣም ጥሩና መጥፎ ምክር ምንድን ነው?</string>
+    <string name="one146"> What annoys you most about the in-groups you are a part of?</string>
+    <string name="two146"> ጋደኞችህ/ሽ ከሚያደርጉት ነገሮች የሚያናድድህ/ሽ ነገር ምንድን ነው ?</string>
+    <string name="one147"> What do you regret not doing or starting when you were younger?</string>
+    <string name="two147">ወጣት በነበርክበት ወቅት አለማድረግህ የሚቆጭህ ነገር ምንድን ነው ??</string>
+    <string name="one148"> If you had to change your name, what would you change it to?</string>
+    <string name="two148"> ስምዎን መለወጥ ካለብዎ ምን ብለው  ይለውጡት ነበር?</string>
+    <string name="one149"> When people look at you, what do you think they see / think?</string>
+    <string name="two149">ሰዎች እርስዎን ሲመለከቱ ምን የሚያዩ ወይም የሚያስቡ ይመስልዎታል?</string>
+    <string name="one150"> What can you not get right, no matter how many times you try?</string>
+    <string name="two150">ምንም ያህል ጊዜ ቢሞክሩ, ማድረግ የማይችሉት ነገር ምንድን ነው ?</string>
+    <string name="one151"> What question can you ask to find out the most about a person?</string>
+    <string name="two151">ስለ አንድ ሰው የበለጠ ለማወቅ የትኛው ጥያቄ መጠየቅ ይችላሉ?</string>
+    <string name="one152"> As you get older, what are you becoming more and more afraid of?</string>
+    <string name="two152">እያደጉ ሲሄዱ ሲለምን ጉዳይ እየፈሩ ነው ?</string>
+    <string name="one153"> What lifestyle change have you been meaning to make for a while now?</string>
+    <string name="two153">አሁን ለተወሰነ ጊዜ ምን ዓይነት የአኗኗር ዘይቤ ለውጥ ለማድረግ አስበዋል?</string>
+    <string name="one154"> There are two types of people in this world. What are the two types?</string>
+    <string name="two154">በዚህ ዓለም ውስጥ ሁለት ዓይነት ሰዎች አሉ፡፡  ሁለቱ ዓይነቶች ምንድን ናቸው?</string>
+    <string name="one155"> What personality trait do you value most and which do you dislike the most?</string>
+    <string name="two155"> የትኛውን የባህርይ ዓይነት ትወዳለህ የትኛውንስ ትጠላለህ ?</string>
+    <string name="one156"> When was the last time you changed your opinion / belief about something major?</string>
+    <string name="two156">ስለ አንድ ዋና ነገር ሀሳብዎን የለወጡት መቼ ነው?</string>
+    <string name="one157"> What would you do if you knew you were going to die in one hour?</string>
+    <string name="two157">በአንድ ሰዓት ውስጥ እንደሚሞቱ ካወቁ ምን ታደርጋላችሁ?</string>
+    <string name="one158"> What are some of the events in your life that made you who you are?</string>
+    <string name="two158">በህይወትዎ እርስዎ እንዲሆኑ ያደረጓቸው አንዳንድ ክስተቶች ምንድን ናቸው?</string>
+    <string name="one159"> If life is a game, like some people say, what are some of the rules?</string>
+    <string name="two159">ሕይወት እንደ ጨዋታ ከሆነ, እንደ አንዳንድ ሰዎች እንደሚሉት, አንዳንድ ደንቦች ምንድን ናቸው?</string>
+    <string name="one160"> What could you do with two million dollars to impact the most amount of people?</string>
+    <string name="two160">በጣም ብዙ ሰዎች ላይ ተፅዕኖ ለመፍጠር በሁለት ሚሊዮን ዶላር ልታደርግ ትችላለህ?</string>
+    <string name="one161"> What are you really good at, but kind of embarrassed that you are good at it?</string>
+    <string name="two161"> በጣም እችለዋለው የምትለው ነገር ምንድን ነው, ግን መቻልዎ ያሳፍረዋል?</string>
+    <string name="one162"> If you could make one rule that everyone had to follow, what rule would you make?</string>
+    <string name="two162">ሁሉም ሰው ሊከተለው የሚገባውን አንድ ህግ ብታጸድቁ ምን አይነት ህግ ነው የሚያደርጉት?</string>
+    <string name="one163"> If you could have a video of any one event in your life, what event would you choose?</string>
+    <string name="two163">በህይወትዎ የማንኛውንም ክስተት ቪዲዮ ካሳዩ, የትኛውን ክንውን ይምረጡ?</string>
+    <string name="one164"> What are the top three things you want to accomplish before you die? How close are you to accomplishing them?</string>
+    <string name="two164"> ከመሞቱ በፊት ሊያከናውኗቸው የሚገቡት ሶስቱ ዋና ነገሮች ምንድን ናቸው? ምን ያህል ልታከናውኗቸው ትችላላችሁ?</string>
+    <string name="one165"> If you could convince everyone in the world to do one thing at one point in time, what would that thing be?</string>
+    <string name="two165">በዓለማችን ያሉ ሰዎች አንድ ጊዜ በአንድ ጊዜ አንድ ነገር እንዲያደርጉ ማሳመን ከቻላችሁ, ጉዳዩ ምን ይሆናል?</string>
+    <string name="one166"> If you had a clock that would countdown to any one event of your choosing, what event would you want it to countdown to?</string>
+    <string name="two166">ወደ መረጥከው አንድ ክስተት የሚወስድ ሰዓት ካለህ, የትኛው የሂወት ክስተት እንዲወስድህ ትፈልጋለህ?</string>
+    <string name="one167"> What keeps you up at night?</string>
+    <string name="two167">በሌሊት ምን እንቅልፍ ያሳጥዋችሃል ?</string>
+    <string name="one168"> What lie do you tell most often?</string>
+    <string name="two168">ምን ዓይነት ውሸት ብዙ ጊዜ ይናገራሉ ?</string>
+    <string name="one169"> What do you regret not doing?</string>
+    <string name="two169"> ምን ስላላደረግክ ይቆጭሃል ?</string>
+    <string name="one170"> What gives your life meaning?</string>
+    <string name="two170"> የእርስዎ ሕይወትን ትርጉም የሚሰጣት ምን ምንድን ነው ?</string>
+    <string name="one171"> What are you most insecure about?</string>
+    <string name="two171"> የበለጠ የማይተተማመኑት ነገር ምንድን ነው?</string>
+    <string name="one172"> What’s the most illegal thing you’ve done?</string>
+    <string name="two172">ያደረጉት ህጋዊ ያልሆነ ነገር ምንድን ነው?</string>
+    <string name="one173"> What are you afraid people see when they look at you?</string>
+    <string name="two173">ሰዎች እርስዎን ሲመለከቱ ምን ይያሉ ብለው ይፈራሉ ?</string>
+    <string name="one174"> How do you hope you’ll change as a person in the future?</string>
+    <string name="two174"> እንደሰው ለወደፊት በምን መልኩ እቀየራለው ብለው ተስፋ ያደርጋሉ ?</string>
+    <string name="one175"> What’s one thing you did that you really wish you could go back and undo?</string>
+    <string name="two175">እርስዎ ሊመለሱ እና እንደገና መመለስ እንዲችሉ የሚፈልጉት አንድ ነገር ምንድነው?</string>
+
+   
+<string name="one176"> What do you most often look down on people for? What do you think other people look down on you for?</string>
+<string name="two176">ብዙውን ጊዜ ሰዎችን የሚንቁት ለምን ነው? ሌሎች ሰዎች ለምን እርስዎን የሚንቁ ይመስልዎታል?</string>
+<string name="one177">  What type of music are you into?</string>
+<string name="two177">ምን ዓይነት ሙዚቃ ነው የሚመችህ ?</string>
+<string name="one178">  Where\’s the next place on your travel bucket list and why?</string>
+<string name="two178"> በጉዞ ማስቀመጫ ዝርዝርዎ ላይ ያለው ቀጣዩ ቦታ የት ነው እና ለምን ?</string>
+<string name="one179">  What are your hobbies, and how did you get into them?</string>
+<string name="two179"> የትርፍ ጊዜ ማሳለፊያዎችዎ ምንድናቸው ፣ እና ወደእነሱ ውስጥ የገቡት እንዴት ነበር?</string> 
+<string name="one180"> Do you have a favorite holiday? Why or why not?</string>
+<string name="two180"> ተወዳጅ የበዓል ቀን አለዎት? ካለ ለምን ከሌለ ለምን የለህም ?</string>
+<string name="one181"> What\’s your \'Death Row Meal\'?</string>
+<string name="two181"> የእርስዎ “የሞት ረድፍ ምግብ” ምንድን ነው? ከመሞትህ በፊት መብላት የምትፈልገው ምግብ ?</string> 
+<string name="one182">  What\’s your favorite sleeping position?</string>
+<string name="two182"> የእርስዎ ተወዳጅ የእንቅልፍ አቀማመጥ ምንድነው?</string>
+<string name="one183"> What\’s your favorite quote from a TV show/movie/book?</string>
+<string name="two183"> ከቴሌቪዥን / ፊልም / መጽሐፍ የሚወዱት ጥቅስ ምንድ ነው? </string>
+<string name="one184"> What\'s one thing that can instantly make your day better?</string>
+<string name="two184"> ቀንዎን በፍጥነት ሊያሻሽል(ያማረ የሚያደርግ ) የሚችል አንድ ነገር ምንድነው?</string>
+<string name="one185"> Which meal is your favorite: breakfast, lunch, or dinner?</string>
+<string name="two185"> የምትወደው ምግብ የትኛው ነው: ቁርስ ፣ ምሳ ወይም እራት? </string>
+<string name="one186"> Ideally, how would you spend your birthday?</string>
+<string name="two186"> በሐሳብ ደረጃ ፣ የልደት ቀንዎን እንዴት ያሳልፋሉ?</string>
+<string name="one187"> What\'s your favorite season and why?</string>
+<string name="two187"> የእርስዎ ተወዳጅ ወቅት ምንድነው እና ለምን?</string>
+<string name="one188">  Would you rather cook or order in?</string>
+<string name="two188"> ምግብ መስራት ትመርጣለህ ወይስ ትመርጣለህ? </string>
+<string name="one189"> If you could have any exotic animal as a pet, which would it be?</string>
+<string name="two189"> እንደ የቤት እንስሳ ለማድረግ የትኛውን የዱር እንስሳ ይመርጣሉ ?</string>
+<string name="one190"> What annoys you most?</string>
+<string name="two190"> በጣም የሚያናድድህ ምንድን ነው? </string>
+<string name="one191"> What type of role do you want to graduate to after this one?</string>
+<string name="two191"> ከዚህኛው በኋላ ለመመረቅ ምን አይነት ሚና ወይም ሞያ ላይ መመረቅ ትፈልጋለህ ?</string>
+<string name="one192"> Are you more of a \'work to live\' or a \'live to work\' type of person?</string>
+<string name="two192"> \'ለመኖር ሥራ\' ወይም \'ሥራ ለመኖር\' ዓይነት ነዎት?</string>
+<string name="one193"> Does your job make you feel happy and fulfilled? Why or why not?</string>
+<string name="two193"> በሥራዎ ደስተኛ እና እርካታ ይሰማዎታል? ከሆነ ለምን ወይም ለምን አይሆንም? </string>
+<string name="one194"> Did you start working immediately after finishing school? Why or why not?</string>
+<string name="two194"> ትምህርቱን ከጨረሱ በኋላ ወዲያውኑ መሥራት ነው የጀመሩት? ለምን ወይም ለምን አይሆንም?</string>
+<string name="one195"> What originally got you interested in your current field of work?</string>
+<string name="two195"> አሁን ባሉበት የሥራ መስክ ላይ በምን ፍላጎት አደረዎት?</string>
+<string name="one196"> Do you consider yourself good at networking?</string>
+<string name="two196"> በመረጃ መረብ ጥሩ እንደሆንክ ይሰማዎታል? </string>
+<string name="one197"> Do you believe in having a "five-year plan"?</string>
+<string name="two197"> “የአምስት ዓመት ዕቅድ” መኖር አለበት ብለው ያምናሉ?</string>
+<string name="one198">  How do you separate your work life from your home life?</string>
+<string name="two198"> የስራ ሕይወትዎን ከቤትዎ ሕይወት እንዴት ይለያዩ?</string>
+<string name="one199"> What qualities do you look for in a boss?</string>
+<string name="two199"> ከ አንድ አለቃ ውስጥ ምን ዓይነት ባሕሪዎችን የጠብቃሉ ?</string>
+<string name="one200"> How much time do you spend with your family?</string>
+<string name="two200"> ከቤተሰብዎ ጋር ምን ያህል ጊዜ ያጠፋሉ?</string>
+<string name="one201"> Who do you most like spending time with and why?</string>
+<string name="two201"> ከማን ጋር ጊዜ ማሳለፍ በጣም ይወዳሉ እና ለምን?</string>
+<string name="one202"> Were you close with your family growing up?</string>
+<string name="two202"> ሲያድጉ ከቤተሰብዎ ጋር ቅርብ ነበሩ?</string>
+<string name="one203"> How do you define your family now?</string>
+<string name="two203"> አሁን ቤተሰብዎን እንዴት ይገልፃሉ?</string>
+<string name="one204"> What traits are most important to you in your family members?</string>
+<string name="two204"> በቤተሰብዎ አባላት ውስጥ ለእርስዎ በጣም አስፈላጊ የሆኑት የትኞቹ ባህሪዎች ናቸው?</string>
+<string name="one205"> Who are you the closest to and why?</string>
+<string name="two205"> ለማን ቅርብ ነዎት እና ለምን?</string>
+<string name="one206"> Do you want a family of your own?</string>
+<string name="two206"> የራስዎ የሆነ ቤተሰብ ይፈልጋሉ?</string>
+<string name="one207"> What\’s your favorite family tradition?</string>
+<string name="two207"> የእርስዎ ተወዳጅ የቤተሰብ ባህል(ከቤተሰብዎ ጋር የሚያደርጉት ነገር ) ምንድነው?</string>
+<string name="one208"> If you could change your relationship with a family member, would you? If so, with whom?</string>
+<string name="two208"> ከቤተሰብዎ አባል ጋር ያለዎትን ግንኙነት መለወጥ ቢችሉ ፣ ይሆን? ከሆነ ፣ ከማን ጋር?</string>
+<string name="one209"> Do you ever wish you were raised differently?</string>
+<string name="two209"> በተለየ መንገድ ባድግ ብለው ያስባሉ ?</string>
+<string name="one210"> What\’s the best piece of advice a family member has given you?</string>
+<string name="two210"> አንድ የቤተሰብ አባል የሰጠዎት በጣም ጥሩው ምክር ምንድነው?</string>
+<string name="one211"> Do you wish you had more siblings? If so, why?</string>
+<string name="two211"> ብዙ እህትማማቾች እና ወንድሞች እንዲኖሩዎት ይፈልጋሉ? ከሆነ ለምን?</string>
+<string name="one212"> Did you ever hide anything from or lie to your parents?</string>
+<string name="two212"> ከቤተሰብዎ ማንኛውንም ነገር ደብቀዋል ወይም ዋሽተው ያውቃሉ?</string>
+<string name="one213"> Do you and your family have any nicknames for each other?</string>
+<string name="two213"> እርስዎ እና ቤተሰብዎ አንዳችሁ ለሌላው ቅጽል ስሞች አላችሁ?እርስዎ እና ቤተሰብዎ አንዳችሁ ለሌላው ቅጽል ስሞች አላችሁ?</string>
+<string name="one214"> What\'s your favorite way to spend time with your family?</string>
+<string name="two214"> ከቤተሰብዎ ጋር ጊዜ ለማሳለፍ በጣም የሚወዱት መንገድ ምንድነው?</string>
+<string name="one215"> How do you show your family you love them?</string>
+<string name="two215"> ቤተሰብዎን እንደሚወድዋቸው እንዴት ያሳያሉ? </string>
+<string name="one216"> What\'s the most important holiday you spend with your family and why?</string>
+<string name="two216"> ከቤተሰብዎ ጋር የሚያሳልፉት በጣም አስፈላጊ በዓል ምንድነው እና ለምን?</string>
+<string name="one217"> What\'s something your family would be surprised to learn about you?</string>
+<string name="two217"> ቤተሰቦችዎ ስለእርስዎ ቢሰሙ የሚደነቁበት ነገር ምንድነው?</string>
+<string name="one218"> Which family member do you confide in most?</string>
+<string name="two218"> የትኛውን የቤተሰብ አባል ነው ብዙ የሚያምኑት?</string>
+<string name="one219"> How do you deal with arguments between family members?</string>
+<string name="two219"> በቤተሰብ አባላት መካከል ክርክር ሲነሱ እንዴት የፈቱታል ?</string>
+<string name="one220"> If you have children, how do you want to raise them?</string>
+<string name="two220"> ልጆች ካሉዎት እነሱን ለማሳደግ እንዴት ይፈልጋሉ?</string>
+<string name="one221"> What\'s more important: family or friends?</string>
+<string name="two221"> ይበልጥ አስፈላጊው ነገር ምንድን ነው-ቤተሰብ ወይም ጓደኞች?</string>
+<string name="one222"> Do you have any friends you would consider family?</string>
+<string name="two222"> እንደ ቤተሰብ የሚቆጥሩዋቸው ሌሎች ጓደኞች አሉዎት?</string>
+<string name="one223"> Has your family ever pressured you to act a certain way?</string>
+<string name="two223"> ቤተሰቦችዎ የሆነ ነገር እንዲሰሩ ጫና አድርገውቦት ያውቃሉ?</string>
+<string name="one224"> Did you ever get to meet your great-grandparents?</string>
+<string name="two224"> አያቶችዎን (አያቶችዎን) ለመገናኘት እድል አግኝተውት ያውቃሉ?</string>
+<string name="one225"> What personality traits do you share with your relatives?</string>
+<string name="two225"> ከዘመዶችዎ ምን ዓይነት የባህርይ መገለጫዎች ያጋራሉ? </string>
+<string name="one226"> How did your parents (and/or grandparents) meet?</string>
+<string name="two226"> ወላጆችዎ (እና / ወይም አያቶችዎ) እንዴት ተገናኙ?</string>
+
+<string name="one227"> What makes you proud of your family?</string>
+<string name="two227"> በቤተሰብሽዎ እንዲኮሩ የሚያደርግዎት ምንድን ነው?</string>
+<string name="one228">  Who\'s the newest member of your family?</string>
+<string name="two228"> አዲሱ የቤተሰብዎ አባል ማን ነው?</string>
+<string name="one229"> What can always bring your family together?</string>
+<string name="two229"> ሁል ጊዜ ቤተሰብዎን አንድ ላይ ሊሰበስብ የሚችል ነገር ምንድን ነው ? </string>
+<string name="one230"> If you had only one sense (hearing, touch, sight, etc.), which would you want?</string>
+<string name="two230"> አንድ ስሜት ብቻ (የመስማት ፣ የመንካት ፣ የማየት ፣ ወዘተ ...) ካልዎት ፣ የትኛውን ይፈልጋሉ?</string>
+<string name="one231"> What is your definition of success?</string>
+<string name="two231"> የስኬትዎ ትርጉም ምንድን ነው?</string>
+<string name="one232"> What are you most proud of in the last year?</string>
+<string name="two232"> ከባለፈው ዓመት በጣም የሚኮሩበት ነገር ምንድነው? </string>
+<string name="one233"> Who do you admire most in the world?</string>
+<string name="two233"> በአለም ውስጥ ማንን ያደንቃሉ?</string>
+<string name="one234"> If you won a million dollars, what would you do with the money?</string>
+<string name="two234"> አንድ ሚሊዮን ብር ካሸነፉ በገንዘቡ ምን ያደርጋሉ?</string>
+<string name="one235"> Which of your personality traits are you most proud of?</string>
+<string name="two235"> በየትኞቹ ባህሪዎችዎ በጣም ይኮራሉ?</string>
+<string name="one236"> What\’s the first thing you look for in a partner and/or friend?</string>
+<string name="two236"> ለመቅረብ ፣ በባልደረባ እና / ወይም ጓደኛ ውስጥ መጀመሪያ የሚፈልጉት ነገር ምንድነው?</string>
+<string name="one237"> How can someone earn your trust?</string>
+<string name="two237"> አንድ ሰው እምነትዎን እንዴት ሊያገኝ ይችላል?</string>
+<string name="one238"> How can someone lose your trust?</string>
+<string name="two238"> አንድ ሰው እምነትዎን እንዴት ወይም ምን ቢያደርግ ያጣል?</string>
+<string name="one239"> Would you rather someone be honest and hurt your feelings or lie to protect them?</string>
+<string name="two239"> አንድ ሰውን ሐቀኛ ሆነው ስሜትዎን ቢጎዱ ወይም እነሱን ለመጠበቅ ቢዋሹ ይመርጣሉ?</string>
+<string name="one240"> If you could snap your fingers and instantly make the world better, what would you do?</string>
+<string name="two240"> በፍጥነት ዓለምን የተሻለ ማድረግ ቢችሉ ፣ ምን ያደርጋሉ?</string>
+<string name="one241"> Do you believe in astrology? Why or why not?</string>
+<string name="two241"> በኮከብ ቆጠራ ያምናሉ? ለምን ወይም ለምን አይሆንም?</string>
+<string name="one242"> Have you ever lost a friend? If so, what happened?</string>
+<string name="two242"> አንድ ጓደኛ አጥተውት ያውቃል? ከሆነ ፣ ምን ሆነ?</string>
+<string name="one243"> If you could only teach one thing to your (future) child, what would it be?</string>
+<string name="two243"> ለልጅዎ (ለወደፊቱ) ልጅዎ አንድ ነገር ብቻ ማስተማር ከቻሉ ምን ይሆን?</string>
+<string name="one244"> What\’s the scariest thing you\’ve ever done, and why did you do it?</string>
+<string name="two244"> መቼም ያከናወኑት አሰቃቂ ነገር ምንድነው ፣ እና ለምን አደረጉት?</string>
+<string name="one245"> Do you believe in second chances?</string>
+<string name="two245"> በሁለተኛ ዕድሎች ያምናሉ?</string>
+<string name="one246"> Where do you get your news?</string>
+<string name="two246"> ዜናዎን የት ነው የሚያገኙት? </string>
+<string name="one247"> Do you contribute to any charities?</string>
+<string name="two247"> ለማንኛውም የበጎ አድራጎት ድርጅቶች መዋጮ ያደርጋሉ?</string>
+<string name="one248"> When was the last time you volunteered?</string>
+<string name="two248"> ለመጨረሻ ጊዜ በፈቃደኝነት በጎ አድራጎት ላይ የተሳተፉበት ጊዜ መቼ ነበር?</string>
+<string name="one249">  Are you an organ donor? if not, do you want to be ?</string>
+<string name="two249"> የአካል ክፍል ለጋሽ ነዎት? ካልሆኑ ለመሆን ይፈልጋሉ ?</string>
+<string name="one250"> Do you believe you should do one thing a day that scares you?</string>
+<string name="two250"> አንድ ቀን ፣  የሚያስፈራዎት አንድ ነገር ማድረግ እንዳለብዎት ያምናሉን?</string>
+<string name="one251"> What, if anything, do you think happens after death?</string>
+<string name="two251"> ከሞት በኋላ ምን አለ ?</string>
+<string name="one252"> What line should someone never cross with you?</string>
+<string name="two252"> አንድ ሰው ከእርስዎ ጋር በጭራሽ ማለፍ የሌለበት መስመር ምንድን ነው ?</string>
+<string name="one253"> How do you define beauty?</string>
+<string name="two253"> ውበትን እንዴት ትገልጸዋለህ?</string>
+<string name="one254"> Do you believe in life on other planets?</string>
+<string name="two254"> በሌሎች ፕላኔቶች ላይ ሂወት አለ ብለው ያምናሉ?</string>
+<string name="one255"> How do you interact with someone who disagrees with you?</string>
+<string name="two255"> ከማይስማማዎትን ሰው ጋር  እንዴት ይነጋገራሉ?</string>
+<string name="one256"> If you could do anything, besides what you\'re doing now, what would you do?</string>
+<string name="two256"> አሁን ከሚያደርጉት በተጨማሪ ሌላ  ነገር ማድረግ ከቻሉ ምን ያደርጋሉ?</string>
+<string name="one257"> What do you regret not doing in the last year?</string>
+<string name="two257"> ባለፈው ዓመት ባለማድረገዎ የሚጸጽዎት ነገር ምንድን ነው ?</string>
+<string name="one258"> If you had unlimited money to start your own business, what would it be?</string>
+<string name="two258"> የራስዎን ንግድ ለመጀመር ያልተገደበ ገንዘብ ቢኖርዎት ኖሮ ፤ ንግዱ ምን ይሆን?</string>
+<string name="one259"> If you found out today was your last day on Earth, what would you do?</string>
+<string name="two259"> ዛሬ በምድር ላይ የመጨረሻ ቀንዎ እንደሆነ ካወቁ ምን ያደርጋሉ?</string>
+<string name="one260"> If you could live anywhere in the world, where would it be?</string>
+<string name="two260"> በዓለም ውስጥ በየትኛውም ቦታ መኖር ሚችሉ ከሆነ ፣ የት ይመርጣሉ ?</string>
+<string name="one261"> If you had the opportunity to be immortal,  would you take it?</string>
+<string name="two261"> ሞትን የሚያሸንፉበት እድሉ ቢኖሮት ፣ ይጠቀሙበት ነበር?</string>
+<string name="one262"> Which famous person in history would you want to spend the day with?</string>
+<string name="two262"> በታሪክ ውስጥ ከየትኛው ታዋቂ ሰው ጋር አንድ ቀን ማሳለፍ ይፈልጋሉ? </string>
+<string name="one263"> Do you think you\'ll likely accomplish all your dreams?</string>
+<string name="two263"> ሁሉንም ሕልሞችዎን የሚፈጽሙ ይመስልዎታል? </string>
+<string name="one264"> If you could relive one moment in your life, which would it be?</string>
+<string name="two264"> በሕይወትዎ ውስጥ አንድ አፍታ ደጋግመው መንር ቢችሉ ፣ የትኛውን የሂወትዎ ጊዜ ይመርጣሉ ?  </string>
+ 
+<string name="one265"> If you could have a super power, what would it be?</string>
+<string name="two265"> እጅግ የላቀ ኃይል ቢኖርህ ኖሮ ምን እንዲሆን ትመርጣለህ ?</string>
+<string name="one266"> If you could go back to anytime in history, where would you go?</string>
+<string name="two266"> በታሪክ ውስጥ በማንኛውም ጊዜ መመለስ ቢችሉ ኖሮ ወዴት መሄድ ይመርጣሉ ?</string>
+<string name="one267"> If you came back in your next life as an animal, what animal would you be?</string>
+<string name="two267"> በቀጣዩ ሕይወትዎ እንደ እንስሳ ተመልሰው ቢሆኑ ምን ዓይነት እንስሳ እሆናለው ብለው ያስባሉ ?</string>
+<string name="one268"> If you got to name a new country, how would you decide what to call it?</string>
+<string name="two268"> አዲስ ሀገር ለመሰየም ቢመረጡ ፣ ምን ብለው ሊሰይሙ ይችላሉ?</string>
+<string name="one269"> What\’s the first thing you do in the morning?</string>
+<string name="two269"> ጠዋት ላይ የመጀመሪያ ያሚያደርጉት ነገር ምንድነው?</string>
+<string name="one270"> What\’s the last thing you do at night?</string>
+<string name="two270"> በምሽት የሚያደርጉት የመጨረሻው ነገር ምንድነው?  </string>
+<string name="one271"> What\’s the most unusual place you\’ve fallen asleep?</string>
+<string name="two271">  የተኙበት በጣም ያልተለመደ ቦታ ምንድነው?</string>
+<string name="one272"> Who would play you in the movie of your life?</string> 
+<string name="two272"> በሕይወትዎ ታሪክዎ ፊልም ላይ ፤ የእርስዎን ቦታ ማን ይጫወታል?</string>
+<string name="one273"> Which fictional character do you relate to most?</string>
+<string name="two273"> የትኛውን ልብ ወለድ ገጸ-ባህሪ ጋር በአብዛኛው ይዛመዳሉ?</string>
+<string name="one274"> What, if anything, would make you walk out in the middle of a movie?</string>
+<string name="two274"> በፊልም መሃል እንድትወጣ የሚያደርግህ አንድ ነገር ምንድነው ?</string>
+<string name="one275"> When was the last time you cried and why?</string>
+<string name="two275"> ለመጨረሻ ጊዜ ስታለቅስ መቼ ነበር እና ለምን?</string>
+<string name="one276"> Do you have any recurring dreams?</string>
+<string name="two276"> የሚደጋገሙ የሚመጡ ህልሞች አልዎት?  </string>
+<string name="one278"> What\'s your opinion on modern art?</string>
+<string name="two278"> በዘመናዊ ሥነጥበብ ላይ ያለዎት አስተያየት ምንድነው?</string>
+<string name="one279"> If you could choose how to die, would you? If so, what would you choose?</string>
+<string name="two279"> እንዴት እንደሚሞት መምረጥ ቢችሉ ፣ ይመርጡ ይሆን? ከሆነ ምን ይመርጣሉ?</string>
+<string name="one280"> What\'s your least favorite place in the world?</string>
+<string name="two280"> በዓለም ውስጥ በጣም የሚጠሉት  ቦታ ምንድነው?</string>
+<string name="one281"> What\'s your favorite story about yourself?</string>
+<string name="two281"> ስለራስዎ ተወዳጅ ታሪክ ምንድነው?</string>
+<string name="one282"> If you could change anything about yourself, would you? If so, what and why?</string>
+<string name="two282"> ስለራስዎ ማንኛውንም ነገር መለወጥ ቢችሉ ፣ ይለውጡ ይሆን? ከሆነ ፣ ለምን እና ለምን?</string>
+<string name="one283">What food have you never eaten but would really like to try?</string>
+<string name="two283"> በጭራሽ ያልበሉት ምግብ ግን በትክክል መሞከር የሚፈልጉት ምንድነው?</string>
+<string name="one284">Do you think that aliens exist?</string>
+<string name="two284"> መጻተኞች(በሌላ ዓለም የሚኖሩ ) ይኖራሉ ብለው ያስባሉ?</string>
+<string name="one285">What are you currently worried about?</string>
+<string name="two285"> በአሁኑ ወቅት ስለ ምን ትጨነቃላችሁ? </string>
+<string name="one286">What movie can you watch over and over without ever getting tired of?</string>
+<string name="two286"> መቼም ሳይዝልዎት የትኛውን ፊልም ደጋግመው ማየት ይችላሉ?</string>
+<string name="one287">When you are old, what do you think children will ask you to tell stories about?</string>
+<string name="two287"> ዕድሜዎ ሲያረጅ ፤ ልጆች ስለ ምን ታሪክ እንዲናገሩ የሚጠይቁት ይመስልዎታል? </string>
+<string name="one288">What\’s something that will always be in fashion, no matter how much time passes?</string>
+<string name="two288"> ምንም ያህል ጊዜ ቢያልፍም ሁልጊዜ በፋሽኑነቱ የሚቀጥል ነገር ምንድን ነው?</string>
+<string name="one289">What actors or actresses play the same character in almost every movie or show they do?</string>
+<string name="two289"> በየትኛውም ፊልም ውስጥ ተመሳሳይ ገጸ-ባህሪን የሚጫወቱ ተዋንያን እነማን ናቸው ?</string>
+<string name="one290">What\’s the best / worst practical joke that you\’ve played on someone or that was played on you?</string>
+<string name="two290">  በአንድ ሰው ላይ የተጫወተው ወይም በአንተ ላይ የተጫወቱት ምርጥ ወይም መጥፎ ተግባራዊ ቀልድ(ፕራንክ) ምንድነው?</string>
+<string name="one291">What food is delicious but a pain to eat?</string>
+<string name="two291"> ለመብላት ሥቃይ ግን ጣፋጭ ምግብ ምን ነው?</string>
+<string name="one292">Who was your craziest / most interesting teacher</string>
+<string name="two292"> በጣም የሚደነቅ / በጣም አስደሳች አስተማሪዎ ማን ነው?</string>
+<string name="one293"> What was the last photo you took?</string>
+<string name="two293"> ለመጨረሻ ጊዜ ያነሱት ፎቶ ምንድነው?</string>
+<string name="one294">Which celebrity do you think is the most down to earth?</string>
+<string name="two294"> የትኛው ተዋቂ ሰው ነው ፣ በጣም ትሁት ብለው የሚያስቡት ?</string>
+<string name="one295"> What\’s the most expensive thing you\’ve broken?</string>
+<string name="two295">  በጣም ዉድ ነገር የሰበርከው ምንድን ነው?</string>
+<string name="one296">Should kidneys be able to be bought and sold?</string>
+<string name="two296"> ኩላሊቶች መግዛትና መሸጥ መቻል አለባቸው?</string>
+<string name="one297">What riddles do you know?</string>
+<string name="two297"> ምን እንቆቅልሾችን ያውቃሉ?</string>
+<string name="one298"> What invention doesn\’t get a lot of love, but has greatly improved the world?</string>
+<string name="two298"> ብዙ ፍቅርን የማያገኝ ግን ዓለምን በጣም አሻሽሏል ብለው ይሚያስቡት የቴክኖሎጂ ውጤት ምንድን ነው ?</string>
+<string name="one299">What\’s the most interesting building you\’ve ever seen or been in?</string>
+<string name="two299"> አይተውት ወይም ገብተው ያዩት በጣም ሳቢ ሕንፃ የትኛው ነው?</string>
+<string name="one300">What are your most important rules when going on a date?</string>
+<string name="two300"> date ላይ  ሲሄዱ በጣም አስፈላጊ ህጎችዎ ምንድናቸው?</string>
+<string name="one301">How do you judge a person?</string>
+<string name="two301"> አንድን ሰው እንዴት ትፈርዳለህ?</string>
+<!--
+<string name="one2">If someone narrated your life, who would you want to be the narrator?</string><string name="two34">
+<string name="one2">What was the most unsettling film you’ve seen?</string><string name="two34">
+<string name="one2">Which celebrity or band has the worst fan base?</string><string name="two34">
+<string name="one2">What are you interested in that most people aren’t?</string><string name="two34">
+<string name="one2">What’s something people don’t worry about but really should?</string><string name="two34">
+<string name="one2">What movie quotes do you use on a regular basis?</string><string name="two34">
+<string name="one2">Do you think that children born today will have better or worse lives than their parents?</string><string name="two34">
+<string name="one2">What’s the funniest joke you know by heart?</string><string name="two34">
+<string name="one2">When was the last time you felt you had a new lease on life?</string><string name="two34">
+<string name="one2"> What’s the funniest actual name you’ve heard of someone having?</string><string name="two34">
+<string name="one2">If you were a ghost and could possess people, what would you make them do?</string><string name="two34">
+<string name="one2">What goal do you think humanity is not focused enough on achieving?</string><string name="two34">
+<string name="one2">What’s the craziest conversation you’ve overheard?</string><string name="two34">
+<string name="one2">What’s the hardest you’ve ever worked?</string><string name="two34">
+<string name="one2">What movie, picture, or video always makes you laugh no matter how often you watch it?</string><string name="two34">
+<string name="one2">What artist or band do you always recommend when someone asks for a music recommendation?</string><string name="two34">
+<string name="one2">If animals could talk, which animal would be the most annoying?</string><string name="two34">
+<string name="one2">Do you eat food that’s past its expiration date if it still smells and looks fine?</string><string name="two34">
+<string name="one2">What’s the most ridiculous thing you have bought?</string><string name="two34">
+<string name="one2">What’s the most depressing meal you’ve eaten?</string><string name="two34">
+<string name="one2">What songs hit you with a wave of nostalgia every time you hear them?</string><string name="two34">
+<string name="one2">What’s the most interesting documentary you’ve ever watched?</string><string name="two34">
+<string name="one2">What was the last song you sung along to?</string><string name="two34">
+<string name="one2">Which of your vices or bad habits would be the hardest to give up?</string><string name="two34">
+<string name="one2"> What really needs to be modernized?</string><string name="two34">
+<string name="one2">How comfortable are you speaking in front of large groups of people?</string><string name="two34">
+<string name="one2">Who has zero filter between their brain and mouth?</string><string name="two34">
+<string name="one2">What was your most recent lie?</string><string name="two34">
+<string name="one2">When was the last time you immediately regretted something you said?</string><string name="two34">
+<string name="one2">What’s the silliest thing you’ve seen someone get upset about?</string><string name="two34">
+<string name="one2">What animal or plant do you think should be renamed?</string><string name="two34">
+<string name="one2">What was the best thing that happened to you today?</string><string name="two34">
+<string name="one2">What word is a lot of fun to say?</string><string name="two34">
+<string name="one2"> Where’s your go to restaurant for amazing food?</string><string name="two34">
+<string name="one2">What’s something that all your friends agree on?</string><string name="two34">
+<string name="one2">What’s your best story from a wedding?</string><string name="two34">
+<string name="one2">What languages do you wish you could speak?</string><string name="two34">
+<string name="one2">What’s the most pleasant sounding accent?</string><string name="two34">
+<string name="one2">What country is the strangest?</string><string name="two34">
+<string name="one2">Who do you wish you could get back into contact with?</string><string name="two34">
+<string name="one2">How do you make yourself sleep when you can’t seem to get to sleep?</string><string name="two34">
+<string name="one2">What are some of the best vacations you’ve had?</string><string name="two34">
+<string name="one2"> What’s the craziest video you’ve ever seen?</string><string name="two34">
+<string name="one2">What animal would be the most terrifying if it could speak?</string><string name="two34">
+<string name="one2">What’s the worst hairstyle you’ve ever had?</string><string name="two34">
+<string name="one2"> What habit do you have now that you wish you started much earlier?</string><string name="two34">
+<string name="one2">What about the opposite sex confuses you the most?</string><string name="two34">
+<string name="one2">When was the last time you yelled at someone?</string><string name="two34">
+<string name="one2">What’s the opposite of a koala?</string><string name="two34">
+<string name="one2">What kinds of things do you like to cook or are good at cooking?</string><string name="two34">
+<string name="one2">What life skills are rarely taught but extremely useful?</string><string name="two34">
+<string name="one2">If you could hack into any one computer, which computer would you choose?</string><string name="two34">
+<string name="one2">Who do you feel like you know even though you’ve never met them?</string><string name="two34">
+<string name="one2">What’s the worst thing you’ve eaten out of politeness?</string><string name="two34">
+<string name="one2">What’s the most historic thing that has happened in your lifetime?</string><string name="two34">
+<string name="one2">What’s the most amazing true story you’ve heard?</string><string name="two34">
+<string name="one2">If you had to disappear and start a whole new life, what would you want your new life to look like?</string><string name="two34">
+<string name="one2"> What movie or book do you know the most quotes from?</string><string name="two34">
+<string name="one2"> What was one of the most interesting concerts you’ve been to?</string><string name="two34">
+<string name="one2">What’s the most annoying noise?</string><string name="two34">
+<string name="one2">What’s the dumbest thing someone has argued with you about?</string><string name="two34">
+<string name="one2">What’s the saddest scene in a movie or TV series?</string><string name="two34">
+<string name="one2">What’s the most frustrating product you own?</string><string name="two34">
+<string name="one2">What qualities do all your friends have in common?</string><string name="two34">
+<string name="one2">What’s the best lesson you’ve learned from a work of fiction?</string><string name="two34">
+<string name="one2">What food do you crave most often?</string><string name="two34">
+<string name="one2">Who in your life has the best / worst luck?</string><string name="two34">
+<string name="one2">What’s the funniest thing you’ve seen a kid do?</string><string name="two34">
+<string name="one2"> What’s your secret talent?</string><string name="two34">
+<string name="one2">What word do you always misspell?</string><string name="two34">
+<string name="one2"> What animal would you most like to eat?</string><string name="two34">
+<string name="one2">What did you believe for way too long as a child?</string><string name="two34">
+<string name="one2">If you owned a restaurant, what kind of food would it serve?</string><string name="two34">
+<string name="one2"> What’s the weirdest crush you’ve had?</string><string name="two34">
+<string name="one2">What’s your favorite holiday movie?</string><string name="two34">
+<string name="one2"> Who is the most manipulative person you’ve ever met?</string><string name="two34">
+<string name="one2"> Who is the most creative person you know?</string><string name="two34">
+<string name="one2"> How ambitious are you?</string><string name="two34">
+<string name="one2">What did you like / dislike about where you grew up?</string><string name="two34">
+<string name="one2">When was the last time you stayed up through the entire night?</string><string name="two34">
+<string name="one2">What’s the oldest thing you own?</string><string name="two34">
+<string name="one2"> What has someone borrowed but never given back?</string><string name="two34">
+<string name="one2">Where is the best place you’ve been for taking walks?</string><string name="two34">
+<string name="one2">If cartoon physics suddenly replaced real physics, what are some things you would want to try?</string><string name="two34">
+<string name="one2">What was the darkest movie you’ve ever seen?</string><string name="two34">
+<string name="one2">What topic could you spend hours talking about?</string><string name="two34">
+<string name="one2">What job doesn’t exist now but will exist in the future?</string><string name="two34">
+<string name="one2"> What awful movie do you love?</string><string name="two34">
+<string name="one2">What were you completely certain of until you found out you were wrong?</string><string name="two34">
+<string name="one2">What near future predictions do you have?</string><string name="two34">
+<string name="one2"> What do you need help with most often?</string><string name="two34">
+<string name="one2">What do you do to make the world a better place?</string><string name="two34">
+<string name="one2">What’s the best and worst thing about the country you are from?</string><string name="two34">
+<string name="one2">What values are most important to you?</string><string name="two34">
+<string name="one2">What’s something that I don’t know?</string><string name="two34">
+<string name="one2">What nicknames do you have for people in your life?</string><string name="two34">
+<string name="one2">How much do you plan / prepare for the future?</string><string name="two34">
+<string name="one2"> How much do you think names affect the outcomes of people’s lives?</string><string name="two34">
+<string name="one2">What product or service is way more expensive than it needs to be?</string><string name="two34">
+<string name="one2">What are some of the dumbest lyrics you’ve heard in a song?</string><string name="two34">
+<string name="one2">What’s the weirdest thing about modern life that people just accept as normal?</string><string name="two34">
+<string name="one2">If you had a giraffe that you needed to hide, where would you hide it?</string><string name="two34">
+<string name="one2">What’s the most amazing place in nature you’ve been?</string><string name="two34">
+<string name="one2">Where is the most uncomfortable place you have ever slept?</string><string name="two34">
+<string name="one2">When was the last time you were hopelessly lost?</string><string name="two34">
+<string name="one2">What two films would you like to combine into one?</string><string name="two34">
+<string name="one2">What was your favorite food when you were a child?</string><string name="two34">
+<string name="one2">What’s the #1 most played song on your iPod?</string><string name="two34">
+<string name="one2">What is one of your favorite quotes?</string><string name="two34">
+<string name="one2">What is your favorite time of day/day of the week/month of the year?</string><string name="two34">
+<string name="one2">What’s your least favorite mode of transportation?</string><string name="two34">
+<string name="one2">What is your favorite body part?</string><string name="two34">
+<string name="one2">What sound do you love?</string><string name="two34">
+<string name="one2">If you could paint a picture of any scenery you’ve seen before, what would you paint?</string><string name="two34">
+<string name="one2">If you could choose to stay a certain age forever, what age would it be?</string><string name="two34">
+<string name="one2">If you knew the world was ending in 2012, what would you do differently?</string><string name="two34">
+<string name="one2">If you could choose anyone, who would you pick as your mentor?</string><string name="two34">
+<string name="one2">If you could learn to do anything, what would it be?</string><string name="two34">
+<string name="one2">If you had to change your first name, what would you change it to?</string><string name="two34">
+<string name="one2">If you could meet anyone, living or dead, who would you meet?</string><string name="two34">
+<string name="one2">If you won the lottery, what is the first thing you would do?</string><string name="two34">
+<string name="one2">What do you want to be when you grow up?</string><string name="two34">
+<string name="one2">What songs are included on the soundtrack to your life?</string><string name="two34">
+<string name="one2">What was one of the best parties you’ve ever been to?</string><string name="two34">
+<string name="one2">What was the last movie, TV show or book that made you cry or tear up?</string><string name="two34">
+<string name="one2">What’s the hardest thing you’ve ever done?</string><string name="two34">
+<string name="one2">What was the last experience that made you a stronger person?</string><string name="two34">
+<string name="one2">What did you do growing up that got you into trouble?</string><string name="two34">
+<string name="one2">What’s the best/worst gift you’ve ever given/received?</string><string name="two34">
+<string name="one2">What do you miss most about being a kid?</string><string name="two34">
+<string name="one2">What is your first memory of being really excited?</string><string name="two34">
+<string name="one2">What was the first thing you bought with your own money?</string><string name="two34">
+<string name="one2">When was the last time you were nervous?</string><string name="two34">
+<string name="one2">What is something you learned in the last week?</string><string name="two34">
+<string name="one2">What story does your family always tell about you?</string><string name="two34">
+<string name="one2">At what age did you become an adult?</string><string name="two34">-->
+</resources>
